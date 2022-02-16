@@ -1,0 +1,49 @@
+body {
+    background: silver;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.target {
+    width: 500px;
+    height: 900px;
+}
+.a {
+    width: 500px;
+    height: 150px;
+    background: #246abb;
+    text-align: center;
+}
+.b {
+    width: 150px;
+    height: 150px;
+    background: #18467b;
+    text-align: center;
+}
+.c {
+    width: 150px;
+    height: 150px;
+    background: #18467b;
+    text-align: center;
+    margin-left: 25px;
+}
+.d {
+    width: 150px;
+    height: 150px;
+    background: #18467b;
+    text-align: center;
+    margin-left: 25px;
+}
+.e {
+    width: 500px;
+    height: 550px;
+    background: #246abb;
+    text-align: center;
+    margin-top: 25px;
+}
+.bcd {
+    flex-direction: row;
+    margin-top: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}

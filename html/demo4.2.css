@@ -1,0 +1,45 @@
+body {
+    background: silver;
+}
+.hand {
+    width: 210px;
+    height: 320px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.a {
+    width: 70px;
+    height: 200px;
+    background: #ffb7ff;
+    text-align: center;
+    margin-top: 10px;
+
+}
+.ao {
+    width: 200px;
+    height: 50px;
+    background: #e6f7b1;
+    text-align: center;
+}
+.cent {
+    width: 120px;
+    height: 95px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background: #a0e2ff;
+    text-align: center;
+}
+.post {
+    width: 120px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.menupost {
+    width: 210px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

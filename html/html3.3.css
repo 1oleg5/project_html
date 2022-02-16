@@ -1,0 +1,79 @@
+body {
+    background: silver;
+    margin: 0px;
+}
+.terget {
+    width: 430px;
+    height: 320px;
+}
+.ass {
+    margin-top: 10px;
+    width: 430px;
+    height: 210px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.asas {
+    width: 320px;
+    height: 210px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.a {
+    background: indianred;
+    width: 430px;
+    height: 100px;
+    text-align: center;
+}
+.b {
+    width: 100px;
+    height: 100px;
+    background: brown;
+    text-align: center;
+}
+.c {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-left: 10px;
+    background: tomato;
+}
+.d {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-left: 10px;
+    background: red;
+}
+.e {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-top: 10px;
+    background: chocolate;
+}
+.f {
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background: olive;
+    text-align: center;
+}
+.g {
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+    background: darkorange;
+}
+.h {
+    background: yellow;
+    width: 100px;
+    height: 210px;
+    margin-left: 10px;
+    text-align: center;
+}
